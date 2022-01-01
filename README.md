@@ -17,6 +17,9 @@ Skills: Spring Boot / Angular / TS / Android / Flutter
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
 
+[![hiusanmaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hiusanmaz)](https://github.com/hiusanmaz/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiusanmaz)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiusanmaz&show_icons=true&count_private=true)  
