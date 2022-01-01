@@ -20,7 +20,7 @@ Skills: Spring Boot / Angular / TS / Android / Flutter
 [![hiusanmaz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hiusanmaz)](https://github.com/hiusanmaz/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiusanmaz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiusanmaz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hiusanmaz&show_icons=true&count_private=true)  
 
