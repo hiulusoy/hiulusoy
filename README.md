@@ -4,7 +4,7 @@ Currently working on a Start-Up as Jr. Software Engineer that offers Full-Stack 
 
 
 - 🔭 I’m currently working on Web Technologies 
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Swift 
 - 👯 I’m looking to collaborate on more open source projects 
 - 💬 Ask me about anything... 
 - 📫 How to reach me: hiusanmaz34@gmail.com 
