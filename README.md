@@ -1,13 +1,12 @@
-### Hi folks 👋, im **Halil**
+### Hi 👋, im **Halil**
 
-Currently working on a Start-Up as Jr. Software Engineer that offers Full-Stack solutions to Real World. I'm also turning my ideas into Mobile Applications. My goal is to become a Software Architect in my career. 
-
+I am a Software Engineer specializing in Full-Stack solutions, currently providing consultancy services to corporate clients. My focus is on transforming innovative ideas into functional platforms. As I progress in my career, my objective is to attain the role of a Software Architect.
 
 - 🔭 I’m currently working on Web Technologies 
-- 🌱 I’m currently learning Swift 
-- 👯 I’m looking to collaborate on more open source projects 
+- 🌱 I’m currently learning System Design 
+- 👯 I’m looking to collaborate on more open-source projects 
 - 💬 Ask me about anything... 
-- 📫 How to reach me: hiulusoy34@gmail.com 
+- 📫 How to reach me: hiusanmaz34@gmail.com 
 
    ![**GIF**](https://media.giphy.com/media/FspLvJQlQACXu/giphy.gif)
 
