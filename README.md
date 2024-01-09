@@ -52,3 +52,6 @@ I am a Software Engineer specializing in Full-Stack solutions, currently providi
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hiulusoy)  
 
 ![Profile views](https://gpvc.arturio.dev/hiulusoy)  
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="halil-ulusoy" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://de.linkedin.com/in/halil-ulusoy?trk=profile-badge">Halil Ulusoy</a></div>
+              
